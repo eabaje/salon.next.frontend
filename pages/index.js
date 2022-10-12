@@ -338,8 +338,6 @@ function Home() {
                         className="form-control"
                         id="formGroupExampleInput"
                         placeholder="Full Name"
-                        onFocus="this.placeholder=''"
-                        onBlur="this.placeholder='Full Name'"
                         type="text"
                       />
                     </div>
@@ -356,8 +354,6 @@ function Home() {
                         className="form-control"
                         id="formGroupExampleInput2"
                         placeholder="Phone Number"
-                        onFocus="this.placeholder=''"
-                        onBlur="this.placeholder='Phone Number'"
                         type="text"
                       />
                     </div>
@@ -376,8 +372,6 @@ function Home() {
                         className="form-control"
                         id="formGroupExampleInput2"
                         placeholder="Email Address"
-                        onFocus="this.placeholder=''"
-                        onBlur="this.placeholder='Email Address'"
                         type="email"
                       />
                     </div>
@@ -394,8 +388,6 @@ function Home() {
                         className="form-control"
                         id="formGroupExampleInput2"
                         placeholder="Enter Address"
-                        onFocus="this.placeholder=''"
-                        onBlur="this.placeholder='Enter Address'"
                         type="email"
                       />
                     </div>
@@ -414,8 +406,6 @@ function Home() {
                         className="form-control"
                         placeholder="Enter your message here!"
                         rows="4"
-                        onFocus="this.placeholder=''"
-                        onBlur="this.placeholder='Enter your message here!'"
                       ></textarea>
                     </div>
                     <div className="form-group">

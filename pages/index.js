@@ -328,30 +328,36 @@ function Home() {
                 <div className="row">
                   <div className="col-md-6">
                     <div className="form-group">
-                      <label className="sr-only" for="formGroupExampleInput">
+                      <label
+                        className="sr-only"
+                        htmlhtmlFor="formGroupExampleInput"
+                      >
                         Full Name
                       </label>
                       <input
                         className="form-control"
                         id="formGroupExampleInput"
                         placeholder="Full Name"
-                        onfocus="this.placeholder=''"
-                        onblur="this.placeholder='Full Name'"
+                        onFocus="this.placeholder=''"
+                        onBlur="this.placeholder='Full Name'"
                         type="text"
                       />
                     </div>
                   </div>
                   <div className="col-md-6">
                     <div className="form-group">
-                      <label className="sr-only" for="formGroupExampleInput2">
+                      <label
+                        className="sr-only"
+                        htmlhtmlFor="formGroupExampleInput2"
+                      >
                         Phone Number
                       </label>
                       <input
                         className="form-control"
                         id="formGroupExampleInput2"
                         placeholder="Phone Number"
-                        onfocus="this.placeholder=''"
-                        onblur="this.placeholder='Phone Number'"
+                        onFocus="this.placeholder=''"
+                        onBlur="this.placeholder='Phone Number'"
                         type="text"
                       />
                     </div>
@@ -360,30 +366,36 @@ function Home() {
                 <div className="row">
                   <div className="col-md-6">
                     <div className="form-group">
-                      <label className="sr-only" for="formGroupExampleInput2">
+                      <label
+                        className="sr-only"
+                        htmlhtmlFor="formGroupExampleInput2"
+                      >
                         Email Address
                       </label>
                       <input
                         className="form-control"
                         id="formGroupExampleInput2"
                         placeholder="Email Address"
-                        onfocus="this.placeholder=''"
-                        onblur="this.placeholder='Email Address'"
+                        onFocus="this.placeholder=''"
+                        onBlur="this.placeholder='Email Address'"
                         type="email"
                       />
                     </div>
                   </div>
                   <div className="col-md-6">
                     <div className="form-group">
-                      <label className="sr-only" for="formGroupExampleInput2">
+                      <label
+                        className="sr-only"
+                        htmlhtmlFor="formGroupExampleInput2"
+                      >
                         Address
                       </label>
                       <input
                         className="form-control"
                         id="formGroupExampleInput2"
                         placeholder="Enter Address"
-                        onfocus="this.placeholder=''"
-                        onblur="this.placeholder='Enter Address'"
+                        onFocus="this.placeholder=''"
+                        onBlur="this.placeholder='Enter Address'"
                         type="email"
                       />
                     </div>
@@ -392,15 +404,18 @@ function Home() {
                 <div className="row">
                   <div className="col-md-12">
                     <div className="form-group">
-                      <label className="sr-only" for="formGroupExampleInput2">
+                      <label
+                        className="sr-only"
+                        htmlhtmlFor="formGroupExampleInput2"
+                      >
                         Message
                       </label>
                       <textarea
                         className="form-control"
                         placeholder="Enter your message here!"
                         rows="4"
-                        onfocus="this.placeholder=''"
-                        onblur="this.placeholder='Enter your message here!'"
+                        onFocus="this.placeholder=''"
+                        onBlur="this.placeholder='Enter your message here!'"
                       ></textarea>
                     </div>
                     <div className="form-group">

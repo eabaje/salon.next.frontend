@@ -6,8 +6,8 @@ function Footer() {
       <div className="copy-footer bg-primary py-2">
         <div className="container text-center text-light">
           &copy;{" "}
-          <a href="http://grafreez.com" target="_blank">
-            Grafreez.com
+          <a href="#" target="_blank" rel="noreferrer">
+            BarberSeek
           </a>{" "}
           <span id="year"></span>. All rights reserved. Created with{" "}
           <i className="fa fa-heart"></i>

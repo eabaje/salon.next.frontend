@@ -22,10 +22,9 @@ function Home() {
               <div className="col-lg-6 col-md-12 caption-two-panel ml-auto pt-5">
                 <div className="intro-caption mt-5">
                   <h1 className="text-white mb-2">
-                    It's not really hard to be smartt
+                    {"It's not really hard to be smartt "}
                   </h1>
                   <p className="text-white mb-4">
-                    {" "}
                     Thinking about changing up your look and trying a new
                     haircut style? Look no further. We got you covered.
                   </p>

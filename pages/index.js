@@ -330,7 +330,7 @@ function Home() {
                     <div className="form-group">
                       <label
                         className="sr-only"
-                        htmlhtmlFor="formGroupExampleInput"
+                        htmlFor="formGroupExampleInput"
                       >
                         Full Name
                       </label>
@@ -348,7 +348,7 @@ function Home() {
                     <div className="form-group">
                       <label
                         className="sr-only"
-                        htmlhtmlFor="formGroupExampleInput2"
+                        htmlFor="formGroupExampleInput2"
                       >
                         Phone Number
                       </label>
@@ -368,7 +368,7 @@ function Home() {
                     <div className="form-group">
                       <label
                         className="sr-only"
-                        htmlhtmlFor="formGroupExampleInput2"
+                        htmlFor="formGroupExampleInput2"
                       >
                         Email Address
                       </label>
@@ -386,7 +386,7 @@ function Home() {
                     <div className="form-group">
                       <label
                         className="sr-only"
-                        htmlhtmlFor="formGroupExampleInput2"
+                        htmlFor="formGroupExampleInput2"
                       >
                         Address
                       </label>
@@ -406,7 +406,7 @@ function Home() {
                     <div className="form-group">
                       <label
                         className="sr-only"
-                        htmlhtmlFor="formGroupExampleInput2"
+                        htmlFor="formGroupExampleInput2"
                       >
                         Message
                       </label>
